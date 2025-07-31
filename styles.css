@@ -1,2 +1,38 @@
 
-/* Your CSS Code here. */
+/* Your CSS Code here. */<style>
+body{
+	font-family:arial,sans-serif
+	background:hf0f4f8;
+	display:flex;
+	justify-content:center;
+	align-items:center;
+	height:100vh;
+	margin:0;
+}
+.container{
+	text-align:center;
+	background:#ffffff;
+	padding:40px;
+	border-radius:16px;
+	box-shadow:0 4x 12px rgba(0,0,0,0.1);
+}
+h1{
+	font-size:2rem;
+	color:#fff;
+}
+a{
+	display:inline-block;
+	margin-top:20px;
+	padding:10px 20px;
+	background-color:#fff;
+	text-decoration:none;
+	border-radius:8px;
+	font-weight:bold;
+	transition:background 0.3s ease;
+}
+a:hover{
+	background-color:
+
+
+
+	
